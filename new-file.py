@@ -1,1 +1,1 @@
-print("conflict")
+print("Hello world")
